@@ -9,6 +9,9 @@ sites:
   - name: FotoFlash API
     url: https://fotoflash.zagoruykov.site/healthz
 
+notifications:
+  - type: telegram
+
 status-website:
   cname: status.zagoruykov.site
   name: Zagoruykov Status
