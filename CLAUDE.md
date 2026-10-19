@@ -37,3 +37,7 @@ gh run list -R zagoruykov1/upptime -L 10        # состояние workflows
 gh workflow run uptime.yml -R zagoruykov1/upptime   # внеочередная проверка
 gh issue list -R zagoruykov1/upptime            # активные инциденты
 ```
+
+## Задачи
+- Локальные: `TASKS.md` (формат: skill `tasks`).
+- Внешнего трекера нет: GitHub Issues заняты инцидентами Upptime.
