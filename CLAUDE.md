@@ -39,5 +39,5 @@ gh issue list -R zagoruykov1/upptime            # активные инциде�
 ```
 
 ## Задачи
-- Локальные: `TASKS.md` (формат: skill `tasks`).
+- Локальные: vault (skill `tasks`), заметки проекта пока нет: заведи при первой задаче.
 - Внешнего трекера нет: GitHub Issues заняты инцидентами Upptime.
