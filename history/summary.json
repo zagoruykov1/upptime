@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn----7sbblh9beecscegov.xn--p1ai.ico",
     "slug": "gurman",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.89%",
-    "time": 956,
-    "timeDay": 975,
-    "timeWeek": 985,
-    "timeMonth": 956,
-    "timeYear": 956,
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 957,
+    "timeDay": 971,
+    "timeWeek": 1009,
+    "timeMonth": 957,
+    "timeYear": 957,
     "dailyMinutesDown": {
       "2026-10-30": 30
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "99.80%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 1006,
-    "timeDay": 917,
-    "timeWeek": 1029,
-    "timeMonth": 1006,
-    "timeYear": 1006,
+    "time": 1004,
+    "timeDay": 963,
+    "timeWeek": 981,
+    "timeMonth": 1004,
+    "timeYear": 1004,
     "dailyMinutesDown": {
       "2026-10-30": 21
     }
@@ -50,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 636,
-    "timeDay": 651,
-    "timeWeek": 649,
-    "timeMonth": 636,
-    "timeYear": 636,
+    "time": 638,
+    "timeDay": 682,
+    "timeWeek": 648,
+    "timeMonth": 638,
+    "timeYear": 638,
     "dailyMinutesDown": {}
   }
 ]
