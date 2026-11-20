@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn----7sbblh9beecscegov.xn--p1ai.ico",
     "slug": "gurman",
     "status": "down",
-    "uptime": "97.63%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "88.51%",
-    "uptimeMonth": "97.07%",
-    "uptimeYear": "97.63%",
+    "uptime": "97.53%",
+    "uptimeDay": "95.70%",
+    "uptimeWeek": "87.98%",
+    "uptimeMonth": "96.95%",
+    "uptimeYear": "97.53%",
     "time": 1006,
     "timeDay": 1066,
     "timeWeek": 1053,
@@ -24,7 +24,7 @@
       "2026-11-16": 174,
       "2026-11-19": 72,
       "2026-11-18": 281,
-      "2026-11-20": 9
+      "2026-11-20": 62
     }
   },
   {
@@ -33,11 +33,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/fotoflash.zagoruykov.site.ico",
     "slug": "foto-flash",
     "status": "down",
-    "uptime": "97.73%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "88.88%",
-    "uptimeMonth": "97.19%",
-    "uptimeYear": "97.73%",
+    "uptime": "97.64%",
+    "uptimeDay": "96.35%",
+    "uptimeWeek": "88.35%",
+    "uptimeMonth": "97.07%",
+    "uptimeYear": "97.64%",
     "time": 1045,
     "timeDay": 1064,
     "timeWeek": 1033,
@@ -51,7 +51,7 @@
       "2026-11-16": 165,
       "2026-11-19": 72,
       "2026-11-18": 272,
-      "2026-11-20": 0
+      "2026-11-20": 53
     }
   },
   {
