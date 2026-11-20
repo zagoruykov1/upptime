@@ -4,10 +4,6 @@ repo: upptime
 sites:
   - name: Gurman
     url: https://xn----7sbblh9beecscegov.xn--p1ai
-  - name: FotoFlash
-    url: https://fotoflash.zagoruykov.site
-  - name: FotoFlash API
-    url: https://fotoflash.zagoruykov.site/healthz
 
 notifications:
   - type: telegram
