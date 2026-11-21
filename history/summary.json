@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/xn----7sbblh9beecscegov.xn--p1ai.ico",
     "slug": "gurman",
     "status": "down",
-    "uptime": "96.76%",
-    "uptimeDay": "63.76%",
-    "uptimeWeek": "83.42%",
-    "uptimeMonth": "95.90%",
-    "uptimeYear": "96.76%",
+    "uptime": "96.67%",
+    "uptimeDay": "60.17%",
+    "uptimeWeek": "82.91%",
+    "uptimeMonth": "95.78%",
+    "uptimeYear": "96.67%",
     "time": 1008,
     "timeDay": 1056,
     "timeWeek": 1035,
@@ -25,7 +25,7 @@
       "2026-11-19": 72,
       "2026-11-18": 281,
       "2026-11-20": 522,
-      "2026-11-21": 0
+      "2026-11-21": 52
     }
   }
 ]
