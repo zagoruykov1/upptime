@@ -4,17 +4,17 @@
     "url": "https://xn----7sbblh9beecscegov.xn--p1ai",
     "icon": "https://icons.duckduckgo.com/ip3/xn----7sbblh9beecscegov.xn--p1ai.ico",
     "slug": "gurman",
-    "status": "down",
-    "uptime": "96.72%",
-    "uptimeDay": "96.41%",
-    "uptimeWeek": "82.91%",
-    "uptimeMonth": "95.78%",
-    "uptimeYear": "96.72%",
-    "time": 1007,
-    "timeDay": 1016,
-    "timeWeek": 1027,
-    "timeMonth": 1037,
-    "timeYear": 1007,
+    "status": "up",
+    "uptime": "96.25%",
+    "uptimeDay": "77.35%",
+    "uptimeWeek": "80.19%",
+    "uptimeMonth": "95.15%",
+    "uptimeYear": "96.25%",
+    "time": 1006,
+    "timeDay": 964,
+    "timeWeek": 1023,
+    "timeMonth": 1035,
+    "timeYear": 1006,
     "dailyMinutesDown": {
       "2026-10-30": 30,
       "2026-11-04": 92,
@@ -25,7 +25,7 @@
       "2026-11-19": 72,
       "2026-11-18": 281,
       "2026-11-20": 522,
-      "2026-11-21": 52
+      "2026-11-21": 326
     }
   }
 ]
